@@ -14,7 +14,8 @@ p {
   color: ghostwhite;
 }
 li {
-  color: ghostwhite;
+  list-style: square;
+  color: #F8F8FF;
 }
 ol {
   color: ghostwhite;
