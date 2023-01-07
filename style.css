@@ -3,20 +3,7 @@ body, html {
 	margins: 0;
 	height: 100%;
 }
-.tablink {
-  background-color: black;
-  color: ghostwhite;
-  float: left;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding: 14px 16px;
-  font-size: 17px;
-  width: 25%;
-}
-.tablink:hover {
-  background-color: black;
-}
+
 iframe {
 	aspect-ratio: 16 / 9;
 	height: 100%;
@@ -44,14 +31,3 @@ ol {
 ul {
   color: ghostwhite;
 }
-.tabcontent {
-  color: ghostwhite;
-  display: none;
-  padding: 100px 20px;
-  height: 100%;
-}
-
-#Home {background-color: black;}
-#Updates {background-color: black;}
-#Games {background-color: black;}
-#About {background-color: black;}
