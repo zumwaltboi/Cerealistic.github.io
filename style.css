@@ -28,6 +28,15 @@ iframe {
 	height: 100%;
 	width: 100%;
 }
+img {
+	border-radius: 30px;
+	border-color: ghostwhite;
+	border-style: solid;
+}
+hr {
+	border-color: aliceblue;
+	border-style: dashed;
+}
 b {
   color: Firebrick;
 }
