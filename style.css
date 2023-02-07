@@ -64,6 +64,10 @@ body, html {
 	padding:10px;
 	border-radius: 10px;
 }
+.header {
+	background-image: url("background.jpeg");
+	cursor: pointer;
+}
 
 iframe {
 	aspect-ratio: 16 / 9;
