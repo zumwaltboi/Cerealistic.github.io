@@ -65,7 +65,7 @@ body, html {
 	border-radius: 10px;
 }
 #header {
-  background-image: url(“./background.jpg”);
+  background-image: url(“./header.jpg”);
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
