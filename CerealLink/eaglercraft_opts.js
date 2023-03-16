@@ -3,7 +3,7 @@ window.eaglercraftXOpts = () => ({
   // joinServer: "ws" + window.location.href.slice(4),
   // assetsURI: "custom.epk",
 	servers: [
-		{ addr: "wss://play.CerealNet.repl.co/", name: "CerealNet Official" }
+		{ addr: "wss://CerealNet.thecerealist.repl.co/", name: "CerealNet Official" }
 	]
 });
 // document.title = "My Original Server Name:tm:";
