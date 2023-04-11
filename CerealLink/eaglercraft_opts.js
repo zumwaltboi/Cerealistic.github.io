@@ -4,8 +4,6 @@ window.eaglercraftXOpts = () => ({
   // assetsURI: "custom.epk",
 	servers: [
 		{ addr: "wss://CerealNet.repl.co/", name: "CerealNet Official" }
-		{ addr: "wss://zentic.cc/", name: "Zentic" }
-		{ addr: "wss://play.cerealnet.work/", name: "CerealNetwork Beta" }
 	]
 });
 // document.title = "My Original Server Name:tm:";
